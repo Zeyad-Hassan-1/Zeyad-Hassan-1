@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&center=true&multiline=true&width=750&height=40&lines=Computer+and+Communication+Student+And+Front-End+Developer)](https://git.io/typing-svg)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100072172149221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100072172149221" height="30" width="40" /></a>
