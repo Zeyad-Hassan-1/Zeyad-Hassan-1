@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Zeyad Hasan</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&duration=7000&pause=3000&center=true&vCenter=true&multiline=true&width=1000&lines=I'm+a+student+in+CCE+department+in+faculty+of+Engineering+in+Alexandria+University+And+A+Front-end+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&duration=7000&pause=3000&center=true&vCenter=true&multiline=true&width=1000&lines=I'm+a+student+in+CCE+department%0Ain+faculty+of+Engineering+in+Alexandria+University%0AAnd+A+Front-end+Developer.)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
