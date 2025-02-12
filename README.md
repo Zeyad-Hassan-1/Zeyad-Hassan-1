@@ -61,12 +61,10 @@
 
 ###
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zeyad-Hassan-1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Zeyad-Hassan-1&theme=radical&no-frame=false&no-bg=false&margin-w=5)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zeyad-Hassan-1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
