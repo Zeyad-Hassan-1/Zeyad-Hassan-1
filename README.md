@@ -13,6 +13,7 @@
 
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 # 💻 Tech Stack:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -54,11 +55,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=zeyad-hassan-1&theme=tokyonight&hide_border=true&show_icons=true&locale=en&layout=compact)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <div align="center">
   <img src="https://profile-counter.glitch.me/zeyad-hassan-1/count.svg?"  />
 </div>
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 🏆 GitHub Trophies
 
