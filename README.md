@@ -47,7 +47,6 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zeyad-hassan-1.zeyad-hassan-1&style=for-the-badge" height="35"/>
 </div>
-###
 
 <br clear="both">
 
@@ -57,11 +56,3 @@
   <img src="https://github-profile-trophy.vercel.app?username=zeyad-hassan-1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeyad-hassan-1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zeyad-hassan-1/count.svg?"  />
-</div>
-
-###
