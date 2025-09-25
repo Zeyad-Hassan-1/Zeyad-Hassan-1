@@ -3,9 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&center=true&multiline=true&width=950&height=30&lines=Computer+and+Communication+Student+And+Full-stack+Developer)](https://git.io/typing-svg)
 
 <img align="right" height="150" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif"  />
-<div align="left">
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,ruby,rails,postman,c,java,postgres,git)](https://skillicons.dev)
-</div>
 
 <div align="left">
   <a href="mailto:zeyad.h.dev@gmail.com" target="_blank">
