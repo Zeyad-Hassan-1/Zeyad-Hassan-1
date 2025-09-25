@@ -6,7 +6,6 @@
 <div align="left">
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,ruby,rails,postman,c,java,postgres,git)](https://skillicons.dev)
 </div>
-###
 
 <div align="left">
   <a href="mailto:zeyad.h.dev@gmail.com" target="_blank">
