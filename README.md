@@ -4,7 +4,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif"  />
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,ruby,rails,postman,c,java,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,ruby,rails,postman,c,java,postgres,git,matlab)](https://skillicons.dev)
 
 <div align="left">
   <a href="mailto:zeyad.h.dev@gmail.com" target="_blank">
