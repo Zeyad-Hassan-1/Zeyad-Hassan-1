@@ -12,6 +12,9 @@
   <a href="https://www.facebook.com/profile.php?id=100072172149221" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+  <a href="https://www.hackerrank.com/ZeyadHassan42">
+    <img src="https://img.shields.io/badge/Hackerrank-2ec866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank" />
+  </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zeyad-hassan-1&color=673ab7&style=for-the-badge" alt="Profile Views" />
