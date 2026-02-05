@@ -15,6 +15,9 @@
   <a href="https://www.hackerrank.com/ZeyadHassan42">
     <img src="https://img.shields.io/badge/Hackerrank-2ec866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank" />
   </a>
+  <a href="https://leetcode.com/u/Zeyad-Hassan-1/">
+    <img src="https://img.shields.io/badge/Leetcode-f09a1a?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
+  </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zeyad-hassan-1&color=673ab7&style=for-the-badge" alt="Profile Views" />
