@@ -1,73 +1,114 @@
-<h1 align="center">Hi 👋, I'm Zeyad Hasan</h1>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&center=true&multiline=true&width=950&height=30&lines=Computer+and+Communication+Student+And+Full-stack+Developer)](https://git.io/typing-svg)
+# Zeyad Hassan
+
+### Computer & Communication Engineering Student | Full-Stack Developer
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zeyad.h.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-hassan-326569357)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ZeyadHassan42)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Zeyad-Hassan-1/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=zeyad-hassan-1&color=0e75b6&style=flat)
+
+</div>
+
+---
+
+## About Me
+
+I'm a Computer and Communication Engineering student passionate about building scalable software solutions. While I maintain diverse interests across full-stack development, data engineering, embedded systems, and AI, I'm currently deepening my expertise in Java backend development and database technologies.
+
+- 🎓 Computer & Communication Engineering student
+- 💼 Building expertise in Java backend development
+- 🗄️ Focused on database design and optimization
+- 🔍 Broader interests: Embedded Systems, AI
+- 📫 Reach me at: **zeyad.h.dev@gmail.com**
+
+---
+
+## Technical Skills
 
 <div align="center">
-  <a href="mailto:zeyad.h.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/zeyad-hassan-326569357" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100072172149221" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/ZeyadHassan42">
-    <img src="https://img.shields.io/badge/Hackerrank-2ec866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank" />
-  </a>
-  <a href="https://leetcode.com/u/Zeyad-Hassan-1/">
-    <img src="https://img.shields.io/badge/Leetcode-f09a1a?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
-  </a>
+
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="45" height="45" alt="Ruby" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+
+### Frameworks & Libraries
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="45" height="45" alt="Rails" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" height="45" alt="Tailwind CSS" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" width="45" height="45" alt="RSpec" />
+
+### Tools & Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB" />
+
 </div>
+
+---
+
+## GitHub Statistics
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeyad-hassan-1&color=673ab7&style=for-the-badge" alt="Profile Views" />
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhpZXhvbzB1OTZ4b2N0bGk5dnFtcnQ4YTY3cTVycGQ4cTRwZTB2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width = 200px height= 200px></picture>
-
-<h3 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-  Skills
-</h3>
-
-<div align="left" width= "70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="css3 logo"  />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="react logo"  />
-  <br>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" height="50" alt="ruby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="50" height="50" alt="rails logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" width="50" height="50" alt="rspec logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50" alt="matlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="git logo"  />
+<img src="https://github-readme-stats.vercel.app/api?username=zeyad-hassan-1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyad-hassan-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180"/>
 
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3>
-  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
-  Stats
-</h3>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyad-hassan-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&hide_border=false&order=2&cache_seconds=86500" width = "300" alt="languages graph"  />
-<img src="https://github-readme-stats.vercel.app/api?username=zeyad-hassan-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-<img src="https://streak-stats.demolab.com?user=Zeyad-Hassan-1&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-hassan-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<h3>
-  <img src="https://media.giphy.com/media/o9KykZbrhepqKjqXxe/giphy.gif" width="35"> 
-  Trophies
-</h3>
-<img src="https://github-profile-trophy.vercel.app?username=zeyad-hassan-1&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeyad-hassan-1&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+---
+
+## Coding Platforms
+
+<div align="center">
+
+[![HackerRank Profile](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ZeyadHassan42)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Zeyad-Hassan-1/)
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeyad.h.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-hassan-326569357)
+
+</div>
+
+---
+
+<div align="center">
+  
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+</div>
