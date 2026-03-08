@@ -23,7 +23,7 @@ I'm a Computer and Communication Engineering student passionate about building s
 - 💼 Building expertise in Java backend development
 - 🗄️ Focused on database design and optimization
 - 🔍 Broader interests: Embedded Systems, AI
-- 📫 Reach me at: **zeyad.h.dev@gmail.com**
+- 📫 Reach me at: **zeyad.hasan028@gmail.com**
 
 ---
 
