@@ -120,6 +120,6 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <div align="center">
   
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)
 
 </div>
