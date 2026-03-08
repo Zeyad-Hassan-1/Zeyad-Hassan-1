@@ -72,16 +72,25 @@ I'm a Computer and Communication Engineering student passionate about building s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeyad-hassan-1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyad-hassan-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180"/>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zeyad-hassan-1&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zeyad-hassan-1&layout=compact&langs_count=8&theme=onedark)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyad-hassan-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=zeyad-hassan-1&theme=onedark)
 
 </div>
+
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-trophies.vercel.app/?username=zeyad-hassan-1&row=1&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
+
+</div>
+
 
 ---
 
