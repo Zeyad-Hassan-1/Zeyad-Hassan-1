@@ -2,7 +2,7 @@
 
 # Zeyad Hassan
 
-### Computer & Communication Engineering Student | Full-Stack Developer
+### Computer & Communication Engineering Student | Data/AI Engineer
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zeyad.hasan028@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-hassan-326569357)
@@ -65,7 +65,7 @@ I'm a Computer and Communication Engineering student passionate about building s
 
 <div align="center">
 
-[![trophy](https://github-trophies.vercel.app/?username=zeyad-hassan-1&row=1&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=zeyad-hassan-1&row=1&theme=onedark&exclude=NewUser,MultiLanguage,LongTimeUser,Joined2020)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
