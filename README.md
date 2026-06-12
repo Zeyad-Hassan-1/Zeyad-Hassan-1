@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zeyad Hassan
+# Zeyad Hasan
 
 ### Computer & Communication Engineering Student | Data/AI Engineer
 
