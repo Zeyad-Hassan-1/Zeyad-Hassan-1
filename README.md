@@ -17,11 +17,10 @@
 
 ## About Me
 
-I'm a Computer and Communication Engineering student passionate about building scalable software solutions. While I maintain diverse interests across full-stack development, data engineering, embedded systems, and AI, I'm currently deepening my expertise in Java backend development and database technologies.
+I'm a Computer and Communication Engineering student passionate about building scalable software solutions. While I maintain diverse interests across data engineering, embedded systems, and AI, I am currently focused on advancing my expertise in machine learning, data engineering, and scalable data systems.
 
 - 🎓 Computer & Communication Engineering student
-- 💼 Building expertise in Java backend development
-- 🗄️ Focused on database design and optimization
+- 💼 Building expertise in Data Engineering
 - 🔍 Broader interests: Embedded Systems, AI
 - 📫 Reach me at: **zeyad.hasan028@gmail.com**
 
